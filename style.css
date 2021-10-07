@@ -1,0 +1,27 @@
+.center.navbar {
+  color: #1c1d1d;
+float: left;
+}
+
+.right.navbar {
+  color: #1c1d1d;
+  float: right;
+}
+
+.trHeader {
+  box-shadow: none;
+  border: none;
+}
+
+.page.body {
+  color: #231f20;
+}
+.ui.center.body.container {
+  color: #231f20;
+}
+
+.page.footer {
+  background-color: #f5f3e9;
+  color: #231f20;
+}
+
